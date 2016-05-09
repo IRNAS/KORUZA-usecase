@@ -8,7 +8,7 @@ Current locations:
 - [Tkalka](Tkalka.md)
 - [Academia](Academia.md)
 - [GT22](GT22.md)
-- [Narodni dom](narodniDom.md)
+- [Narodni dom](NarodniDom.md)
 
 ---
 
