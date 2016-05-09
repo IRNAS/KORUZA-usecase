@@ -1,5 +1,5 @@
 # KORUZA-usecase
-KORUZA use cases with detailed information about KORUZA deployments in KORUZA test network.
+This repository is dedicated to KORUZA use cases. Here you'll be able to find detailed information about KORUZA deployments in KORUZA test network.
 
 KORUZA test network is currently connecting four locations in the center of Maribor with more deployments planned for the next weeks.
 Find out more on the [KORUZA test network web page](http://koruza.net/deployments/).
