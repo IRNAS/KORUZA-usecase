@@ -1,6 +1,15 @@
 # KORUZA-usecase
 KORUZA use cases with detailed information about KORUZA deployments in KORUZA test network.
 
+KORUZA test network is currently connecting four locations in the center of Maribor with more deployments planned for the next weeks.
+Find out more on the [KORUZA test network web page](http://koruza.net/deployments/).
+
+Current locations:
+- [Tkalka](Tkalka.md)
+- [Academia](Academia.md)
+- [GT22](GT22.md)
+- [Narodni dom](narodniDom.md)
+
 ---
 
 ## Licensing
