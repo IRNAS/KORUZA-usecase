@@ -1,4 +1,4 @@
-##Narodni Dom
+##Narodni dom
 
 ###About deployment
 - **Location:** Ulica Kneza Koclja 9, Maribor, Slovenia
