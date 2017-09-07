@@ -1,6 +1,6 @@
-##Academia
+## Academia
 
-###About deployment
+### About deployment
 - **Location:** Glavni trg 17b, Maribor, Slovenia
 - **Units deployed on this location:** 	
   - [irnas-2-1](https://nodewatcher.koruza.net/node/68842a50-d794-5d4d-a711-362f18a35cfa/)
@@ -10,4 +10,4 @@
 ![deployment-3](img/deployment-7.jpg)
 ![deployment-4](img/deployment-3.jpg)
 
-###Deployment specifications
+### Deployment specifications
